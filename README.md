@@ -50,11 +50,11 @@ This file provides statistics from inverted index. Giving inputs using command l
 Passing just **--doc DOCNAME** will list the following document information:
 
 
-  $ ./read_index.py --doc clueweb12-0000tw-13-04988&nbsp
-  Listing for document: clueweb12-0000tw-13-04988&nbsp
-  DOCID: 1234&nbsp
-  Distinct terms: 25&nbsp
-  Total terms: 501&nbsp
+  $ ./read_index.py --doc clueweb12-0000tw-13-04988\
+  Listing for document: clueweb12-0000tw-13-04988\
+  DOCID: 1234\
+  Distinct terms: 25\
+  Total terms: 501\
   
   
 Passing just **--term TERM** will stem the term and then list the following term information:
