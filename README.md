@@ -78,23 +78,25 @@ In this project, I used 10 queries listed In topics.txt file. Using this file ra
 
 ![image](https://drive.google.com/uc?export=view&id=1l9CmCEPV1HnTExhKagNN5kif97lBLByD)
 
-###### TF SCORES
+###### JELINEK MERCER SCORES
+
 |               |     Query     |  Score           |
 | ------------- | ------------- | ---------------- |
 | TF Scores   | 202   | 0.0                        |
-|     | 214           | 0.4103140763267171         |
-|     | 216          | 0.3444326515452093         |
-|     | 221        | 0.34806719022696564        |
-|     | 227           | 0.06810145227682243        |
-|     | 230           | 0.15851341756512208        |
-|     | 234           | 0.41390072214953744        |
-|     | 243           | 0.29882793273534186        |
-|     | 246           | 0.1196812525974099        |
-|     | 250           | 0.01840284074820255        |
-|     | Avg           | 0.21802415361713287        |
+|     | 214           | 0.5341437208676446        |
+|     | 216          | 0.4294449881686841         |
+|     | 221        | 0.34255224066153     |
+|     | 227           | 0.14966966145744265    |
+|     | 230           | 0.2568956482705933       |
+|     | 234           | 0.6072051329279208       |
+|     | 243           | 0.30647341225591607       |
+|     | 246           | 0.19030582745862082    |
+|     | 250           | 0.038632952250680294       |
+|     | Avg           | 0.2855323584319033    |
 
 
 ###### TFIDF SCORES
+
 |               |     Query     |  Score           |
 | ------------- | ------------- | ---------------- |
 | TF Scores   | 202   | 0.0                        |
@@ -110,6 +112,7 @@ In this project, I used 10 queries listed In topics.txt file. Using this file ra
 |     | Avg           | 0.22385596330426147       |
 
 ###### BM25 SCORES
+
 |               |     Query     |  Score           |
 | ------------- | ------------- | ---------------- |
 | TF Scores   | 202   | 0.0                        |
@@ -123,5 +126,6 @@ In this project, I used 10 queries listed In topics.txt file. Using this file ra
 |     | 246           | 0.1481816491957189      |
 |     | 250           | 0.10618521546915802     |
 |     | Avg           | 0.3190225890629763       |
+
 
 After running all metrics correspoding file for each metric is also generated. These files rank all documents with top score documents showing on top. 
