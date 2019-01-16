@@ -70,7 +70,7 @@ In this project, I used 10 queries listed In topics.txt file. Using this file ra
   
 
 
-![alt tag](https://drive.google.com/drive/folders/1YH1vohyA9513xi0E3odvq3tHBr6TS4zI?ogsrc=32 "This is resulting score table")
+![alt tag](https://drive.google.com/file/d/1F6aER5Gd3fnB2Uhy8ws991_WKF92JUUL/view?usp=sharing "This is resulting score table")
 
 
 
