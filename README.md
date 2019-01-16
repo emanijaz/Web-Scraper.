@@ -60,24 +60,24 @@ Passing just **--doc DOCNAME** will list the following document information:
 Passing just **--term TERM** will stem the term and then list the following term information:
 
 
-$ ./read_index.py --term asparagus
-Listing for term: asparagus
-TERMID: 567
-Number of documents containing term: 315
-Term frequency in corpus: 567
-Inverted list offset: 1542
+$ ./read_index.py --term asparagus\
+Listing for term: asparagus\
+TERMID: 567\
+Number of documents containing term: 315\
+Term frequency in corpus: 567\
+Inverted list offset: 1542\
 
 
 Passing both **--term TERM and --doc DOCNAME** will show the inverted list for the document/term:
 
 
-$ ./read_index.py --term asparagus --doc clueweb12-0000tw-13-04988
-Inverted list for term: asparagus
-In document: clueweb12-0000tw-13-04988
-TERMID: 567
-DOCID: 1234
-Term frequency in document: 4
-Positions: 134, 155, 201, 233
+$ ./read_index.py --term asparagus --doc clueweb12-0000tw-13-04988\
+Inverted list for term: asparagus\
+In document: clueweb12-0000tw-13-04988\
+TERMID: 567\
+DOCID: 1234\
+Term frequency in document: 4\
+Positions: 134, 155, 201, 233\
 
 
 ## Ranker
