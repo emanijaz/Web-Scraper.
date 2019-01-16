@@ -19,6 +19,8 @@ Following is snippet of forward index:
 ###### Termids.txt  
 This file lists all terms found in all documents and assign ID’s to them. Following snippet clarifies the idea :
 
+![image](https://drive.google.com/uc?export=view&id=1TD5ADt8TAHIRQOHyIbvOFniipqJoQ52W)
+
 ###### Term_info.txt 
 File that provides fast access time to the inverted list for any term in your index, and also provides extra metadata for the term. Each line of this file contains a TERMID followed by a tab-separated list of properties: 567\t1542\t567\t315 
     • 1542: The offset in bytes to the beginning of the line containing the inverted list for that term in term_index.txt. If you jump to this location and read one line, the first symbol you see should be the TERMID. 
@@ -32,6 +34,7 @@ File that provides fast access time to the inverted list for any term in your in
 
 Following snippet provides more clarification of inverted index: 
 
+![image](https://drive.google.com/uc?export=view&id=1O5M8_g0q4WsBRF5pxeLP5liSo026goLg)
 
 
 ###### Inverted_index.py 
@@ -70,7 +73,7 @@ In this project, I used 10 queries listed In topics.txt file. Using this file ra
   
 
 
-![image](https://drive.google.com/uc?export=view&id=1F6aER5Gd3fnB2Uhy8ws991_WKF92JUUL)
+
 
 
 ![image](https://drive.google.com/uc?export=view&id=1PRm9_B3UIiGyr_vJoOHXVytZXihrkCUf)
