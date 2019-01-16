@@ -79,6 +79,20 @@ In this project, I used 10 queries listed In topics.txt file. Using this file ra
 ![image](https://drive.google.com/uc?export=view&id=1l9CmCEPV1HnTExhKagNN5kif97lBLByD)
 
 
+|     Query     |     Score     |
+| ------------- | ------------- |
+| TF Scores     | 202           |0.0                 |
+| TF Scores     | 214           |0.4103140763267171  |
+| TF Scores     | 202           |0.0                 |
+| TF Scores     | 202           |0.0              |
+| TF Scores     | 202           |0.0              |
+| TF Scores     | 202           |0.0              |
+| TF Scores     | 202           |0.0              |
+| TF Scores     | 202           |0.0              |
+| TF Scores     | 202           |0.0              |
+| TF Scores     | 202           |0.0              |
 
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 After running all metrics correspoding file for each metric is also generated. These files rank all documents with top score documents showing on top. 
