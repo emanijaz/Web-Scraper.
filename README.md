@@ -79,8 +79,8 @@ In this project, I used 10 queries listed In topics.txt file. Using this file ra
 ![image](https://drive.google.com/uc?export=view&id=1l9CmCEPV1HnTExhKagNN5kif97lBLByD)
 
 
-|     Query     |     Score     |
-| ------------- | ------------- |
+|     Query     |     Score     |                  |
+| ------------- | ------------- | ---------------- |
 | TF Scores   | 202   | 0.0                        |
 |     | 214           | 0.4103140763267171         |
 |     | 214           | 0.3444326515452093         |
