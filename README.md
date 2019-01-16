@@ -51,9 +51,13 @@ Passing just **--doc DOCNAME** will list the following document information:
 
 
   $ ./read_index.py --doc clueweb12-0000tw-13-04988
+  
   Listing for document: clueweb12-0000tw-13-04988
+  
   DOCID: 1234
+  
   Distinct terms: 25
+  
   Total terms: 501
   
   
