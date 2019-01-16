@@ -54,7 +54,7 @@ Passing just **--doc DOCNAME** will list the following document information:
   Listing for document: clueweb12-0000tw-13-04988\
   DOCID: 1234\
   Distinct terms: 25\
-  Total terms: 501\
+  Total terms: 501<br/>
   
   
 Passing just **--term TERM** will stem the term and then list the following term information:
@@ -65,7 +65,7 @@ Listing for term: asparagus\
 TERMID: 567\
 Number of documents containing term: 315\
 Term frequency in corpus: 567\
-Inverted list offset: 1542\
+Inverted list offset: 1542
 
 
 Passing both **--term TERM and --doc DOCNAME** will show the inverted list for the document/term:
@@ -77,7 +77,7 @@ In document: clueweb12-0000tw-13-04988\
 TERMID: 567\
 DOCID: 1234\
 Term frequency in document: 4\
-Positions: 134, 155, 201, 233\
+Positions: 134, 155, 201, 233
 
 
 ## Ranker
