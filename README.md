@@ -91,7 +91,7 @@ In this project, I used 10 queries listed In topics.txt file. Using this file ra
 
 |               |     Query     |  Score           |
 | ------------- | ------------- | ---------------- |
-| TF Scores   | 202   | 0.0                        |
+| Jelinek Scores   | 202   | 0.0                        |
 |     | 214           | 0.5341437208676446        |
 |     | 216          | 0.4294449881686841         |
 |     | 221        | 0.34255224066153     |
@@ -108,7 +108,7 @@ In this project, I used 10 queries listed In topics.txt file. Using this file ra
 
 |               |     Query     |  Score           |
 | ------------- | ------------- | ---------------- |
-| TF Scores   | 202   | 0.0                        |
+| Tfidf Scores   | 202   | 0.0                        |
 |     | 214           | 0.43983570681388967        |
 |     | 216          | 0.3584303955388199        |
 |     | 221        | 0.33146057619667446        |
@@ -124,7 +124,7 @@ In this project, I used 10 queries listed In topics.txt file. Using this file ra
 
 |               |     Query     |  Score           |
 | ------------- | ------------- | ---------------- |
-| TF Scores   | 202   | 0.0                        |
+| bm25 Scores   | 202   | 0.0                        |
 |     | 214           | 0.5472336230459914        |
 |     | 216          | 0.4779263845212727        |
 |     | 221        | 0.3738197451256454      |
