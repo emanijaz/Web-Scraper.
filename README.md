@@ -71,18 +71,8 @@ In this project, I used 10 queries listed In topics.txt file. Using this file ra
 
 
 ![image](https://drive.google.com/uc?export=view&id=1F6aER5Gd3fnB2Uhy8ws991_WKF92JUUL)
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://drive.google.com/uc?export=view&id=1PRm9_B3UIiGyr_vJoOHXVytZXihrkCUf)
+![image](https://drive.google.com/uc?export=view&id=1l9CmCEPV1HnTExhKagNN5kif97lBLByD)
 
 
 
