@@ -4,6 +4,8 @@
 A small search engine which provides ranks for given queries using TFIDF, IDF, Jelinek Mercer and Okapi BM25 scoring functions. 
 It involves two parts:
   **1. Inverted Index generation**
+  
+  
   **2. Ranker **
   
 ## INVERTED INDEX GENERATION:
@@ -26,7 +28,9 @@ This file lists all terms found in all documents and assign ID’s to them. Foll
 
 ###### Term_info.txt 
 File that provides fast access time to the inverted list for any term in your index, and also provides extra metadata for the term. Each line of this file contains a TERMID followed by a tab-separated list of properties: 567\t1542\t567\t315 
-    * 1542: The offset in bytes to the beginning of the line containing the inverted list for that term in term_index.txt. If you jump to this location and read one line, the first symbol you see should be the TERMID. 
+    * 1542: The offset in bytes to the beginning of the line containing the inverted list for that term in term_index.txt.
+    
+    If you jump to this location and read one line, the first symbol you see should be the TERMID. 
     * 567: The total number of occurrences of the term in the entire corpus 
     * 315: The total number of documents in which the term appears 
 
